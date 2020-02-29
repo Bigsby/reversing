@@ -26,6 +26,11 @@ Show all file information (imports, exports, sections ...)
 ia
 ```
 
+Analyse all functions and name then
+```
+aaa
+```
+
 List functions
 ```
 afl
